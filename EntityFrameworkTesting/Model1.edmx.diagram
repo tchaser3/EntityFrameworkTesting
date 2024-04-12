@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="85328ecee72d4f48909a14a213fa54f4" Name="Diagram1">
+        <EntityTypeShape EntityType="whsetracModel.accountingassetdepreciationhistory" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.accountingasset" Width="1.5" PointX="9.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.accrec" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.adjustinventory" Width="1.5" PointX="5" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.assetassignmenthistory" Width="1.5" PointX="11.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.assetmain" Width="1.5" PointX="11.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.assettype" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.assignedemployeetask" Width="1.5" PointX="7.25" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.assignedtask" Width="1.5" PointX="5" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.assignedtasksupdate" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.auditcategory" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.auditreportemaillist" Width="1.5" PointX="13.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.bluejayoffice" Width="1.5" PointX="13.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.bompart" Width="1.5" PointX="14.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.bulktoolhistory" Width="1.5" PointX="7.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.bulktool" Width="1.5" PointX="13.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.cellphonehistory" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.cellphonelist" Width="1.5" PointX="15.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.charterinventory" Width="1.5" PointX="15.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.companyholiday" Width="1.5" PointX="15.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.createpartid" Width="1.5" PointX="0.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.customeraddress" Width="1.5" PointX="16.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.customer" Width="1.5" PointX="9.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dailytoolinspection" Width="1.5" PointX="15.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dailyvehicleinspection" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dataentrywip" Width="1.5" PointX="2.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.department" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.departmentproductionemail" Width="1.5" PointX="17.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.departmentproductionemailproject" Width="1.5" PointX="17.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designpermitimport" Width="1.5" PointX="17.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designpermit" Width="1.5" PointX="18.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designproductivity" Width="1.5" PointX="6.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designprojectdocumentation" Width="1.5" PointX="11.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designproject" Width="1.5" PointX="19.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designprojectsurveyor" Width="1.5" PointX="19.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.designprojectupdate" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dotstatu" Width="1.5" PointX="13.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dropburycompleted" Width="1.5" PointX="15.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dropburytask" Width="1.5" PointX="19.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeecrewassignment" Width="1.5" PointX="17.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeedateentry" Width="1.5" PointX="19.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeegroup" Width="1.5" PointX="20.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeeid" Width="1.5" PointX="8.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeelaborrate" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeeovernightwork" Width="1.5" PointX="0.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeeprojectassignment" Width="1.5" PointX="2.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeepunchedhour" Width="1.5" PointX="4.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employee" Width="1.5" PointX="2.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeesession" Width="1.5" PointX="21.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.employeetimeclockentry" Width="1.5" PointX="21.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.eventlog" Width="1.5" PointX="10.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.fuelcardassignment" Width="1.5" PointX="21.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.geofenceimport" Width="1.5" PointX="21.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.gpsplugstatu" Width="1.5" PointX="21.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.inspectiongp" Width="1.5" PointX="21.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.inventory" Width="1.5" PointX="22.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.issuedpart" Width="1.5" PointX="12.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.itassetassignment" Width="1.5" PointX="17.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.itassetassignmenthistory" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.itasset" Width="1.5" PointX="23.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jobtype" Width="1.5" PointX="6.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsidocumentation" Width="1.5" PointX="23.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsiemployee" Width="1.5" PointX="23.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsiladderinspection" Width="1.5" PointX="14.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsimain" Width="1.5" PointX="23.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsioverall" Width="1.5" PointX="23.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.JSIPPE" Width="1.5" PointX="2.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsisiteinspection" Width="1.5" PointX="24.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsiuniform" Width="1.5" PointX="8.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.jsivehicle" Width="1.5" PointX="19.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.letterparagraph" Width="1.5" PointX="21.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.letterparagraphhistory" Width="1.5" PointX="23.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.letter" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.Machine" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.MachineType" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.MachineWarranty" Width="1.5" PointX="10" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.masterpartlist" Width="1.5" PointX="25.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.mducompleted" Width="1.5" PointX="25.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.mdutask" Width="1.5" PointX="25.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.OperatingSy" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.partnumber" Width="1.5" PointX="25.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.PhoneCallLog" Width="1.5" PointX="16.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.phonelist" Width="1.5" PointX="25.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.productionproject" Width="1.5" PointX="25.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.productionprojectupdate" Width="1.5" PointX="26.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.productivitydataentry" Width="1.5" PointX="4.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.productivitynotcorrect" Width="1.5" PointX="10.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.productivitytotechpay" Width="1.5" PointX="27.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.project" Width="1.5" PointX="27.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.projecttask" Width="1.5" PointX="6.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.projecttechpayitem" Width="1.5" PointX="27.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.purchaserequest" Width="1.5" PointX="12.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.purchaserequestdocumentation" Width="1.5" PointX="27.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.purchaserequestitem" Width="1.5" PointX="27.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.purchaserequestproject" Width="1.5" PointX="27.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.purchaserequestupdate" Width="1.5" PointX="27.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.receivepart" Width="1.5" PointX="25.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.rentaltackingitem" Width="1.5" PointX="27.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.rentaltracking" Width="1.5" PointX="0.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.rentaltrackingagreement" Width="1.5" PointX="28.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.rentaltrackingdocumentation" Width="1.5" PointX="14.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.rentaltrackingupdate" Width="1.5" PointX="16.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.SupportLog" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.SupportTicket" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.sysdiagram" Width="1.5" PointX="18.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.techpayitem" Width="1.5" PointX="20.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolcategory" Width="1.5" PointX="22.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolhistory" Width="1.5" PointX="29.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolid" Width="1.5" PointX="29.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolinspectionproblem" Width="1.5" PointX="8.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolproblem" Width="1.5" PointX="29.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolproblemdocument" Width="1.5" PointX="29.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.toolproblemupdate" Width="1.5" PointX="29.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.tool" Width="1.5" PointX="29.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorasset" Width="1.5" PointX="29.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorengineoff" Width="1.5" PointX="29.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorengineon" Width="1.5" PointX="2.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorinsepctiondocumentation" Width="1.5" PointX="30.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorinspection" Width="1.5" PointX="4.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorinspectionoverall" Width="1.5" PointX="31.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorinspectionproblem" Width="1.5" PointX="31.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotormain" Width="1.5" PointX="31.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorproblemdocumentation" Width="1.5" PointX="31.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorproblem" Width="1.5" PointX="14.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.towmotorproblemupdate" Width="1.5" PointX="31.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailerbodydamage" Width="1.5" PointX="16.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailercable" Width="1.5" PointX="18.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailercategory" Width="1.5" PointX="31.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailercurrentload" Width="1.5" PointX="20.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailerhistory" Width="1.5" PointX="31.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailerproblem" Width="1.5" PointX="22.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailerproblemdocumentation" Width="1.5" PointX="24.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailerproblemupdate" Width="1.5" PointX="31.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailer" Width="1.5" PointX="26.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.trailersinyard" Width="1.5" PointX="31.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleassignment" Width="1.5" PointX="31.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclebodydamage" Width="1.5" PointX="32.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclebulktool" Width="1.5" PointX="33.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleexceptionemail" Width="1.5" PointX="33.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclehistory" Width="1.5" PointX="6.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleid" Width="1.5" PointX="8.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleinfo" Width="1.5" PointX="33.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleinfohistory" Width="1.5" PointX="10.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleinspectionemaillist" Width="1.5" PointX="33.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleinspectionproblem" Width="1.5" PointX="33.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleinvoice" Width="1.5" PointX="33.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclemain" Width="1.5" PointX="33.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleproblem" Width="1.5" PointX="28.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleproblemdocumentation" Width="1.5" PointX="33.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicleproblemupdate" Width="1.5" PointX="33.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicle" Width="1.5" PointX="16.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclesinshop" Width="1.5" PointX="34.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclesinyard" Width="1.5" PointX="18.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehiclestatu" Width="1.5" PointX="30.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicletool" Width="1.5" PointX="35.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vehicletype" Width="1.5" PointX="35.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.vendor" Width="1.5" PointX="35.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.warehousetrailerinspection" Width="1.5" PointX="12.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.WarrantyProvider" Width="1.5" PointX="7.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.weeklybulktoolinspection" Width="1.5" PointX="35.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.weeklytoolinspection" Width="1.5" PointX="35.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.weeklyvehiclecleanliness" Width="1.5" PointX="35.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.weeklyvehicleinspection" Width="1.5" PointX="20.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.weeklyvehiclereportsdate" Width="1.5" PointX="22.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.workorder" Width="1.5" PointX="35.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.workorderscheduled" Width="1.5" PointX="24.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.workorderstatu" Width="1.5" PointX="35.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.workorderupdate" Width="1.5" PointX="35.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.worktask" Width="1.5" PointX="35.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.worktaskstat" Width="1.5" PointX="0.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.worktype" Width="1.5" PointX="2.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.workzone" Width="1.5" PointX="36.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.workzonecity" Width="1.5" PointX="4.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.wovbillingcode" Width="1.5" PointX="6.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.wovinvoicing" Width="1.5" PointX="8.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.wovinvoicingitem" Width="1.5" PointX="32.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.wovtask" Width="1.5" PointX="34.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="whsetracModel.dailytrailerinspection" Width="1.5" PointX="36.75" PointY="36.75" IsExpanded="true" />
+        <AssociationConnector Association="whsetracModel.FK_adjustinventory_employees" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_assignedemployeetasks_assignedtasks" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_assignedemployeetasks_employees" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_assignedtasks_employees" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_Machine" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_MachineType" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_OperatingSys" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_WarrantyProvider" ManuallyRouted="false" />
+        <AssociationConnector Association="whsetracModel.FK_SupportTicket" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
